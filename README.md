@@ -25,7 +25,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=playwright" height="32" alt="playwright" />
+    <img src="https://playwright.dev/img/playwright-logo.svg" height="32" alt="playwright logo" />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=cypress" height="32" alt="cypress" />
     <img width="12" />
