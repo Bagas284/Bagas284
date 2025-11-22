@@ -16,7 +16,7 @@
 
 ###
 
-<h6 align="left">I am a Software Development Student focused on Quality Assurance and software development to ensure reliable, high-quality, and user-friendly products</h6>
+<p align="left">I am a Software Development Student focused on Quality Assurance and software development to ensure reliable, high-quality, and user-friendly products</p>
 
 ###
 
@@ -25,30 +25,35 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="32" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="32" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="32" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="32" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="32" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="32" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="32" alt="php logo"  />
+    <img src="https://skillicons.dev/icons?i=playwright" height="32" alt="playwright" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=cypress" height="32" alt="cypress" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="32" alt="androidstudio" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=figma" height="32" alt="figma" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=notion" height="32" alt="notion" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=vscode" height="32" alt="vscode" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="32" alt="bootstrap" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="32" alt="css" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="32" alt="html" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="32" alt="java" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=kotlin" height="32" alt="kotlin" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="laravel" />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=php" height="32" alt="php" />
 </div>
+
 
 ###
 
