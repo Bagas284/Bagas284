@@ -59,12 +59,12 @@
 
 <div align="left">
   <img 
-    src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs?username=Bagas284&layout=compact&langs_count=6&theme=dracula"
-    height="150"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagas284&layout=compact&langs_count=6&theme=dracula"
+  height="150"
   />
   <img 
-    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=Bagas284&show_icons=true&theme=dracula"
-    height="150"
+  src="https://github-readme-stats.vercel.app/api?username=Bagas284&show_icons=true&theme=dracula"
+  height="150"
   />
 </div>
 
