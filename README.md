@@ -58,10 +58,13 @@
 ###
 
 <div align="left"> 
-  <img src="https://github-readme-stats-pi-one.vercel.app/api/top-langs?username=Bagas284&layout=compact&theme=dracula&cache_seconds=7200" 
+  <img 
+    src="https://github-readme-stats-pi-one.vercel.app/api/top-langs?username=Bagas284&layout=compact&theme=dracula&cache_seconds=60&v=1" 
     height="150" 
   /> 
-  <img src="https://github-readme-stats-pi-one.vercel.app/api?username=Bagas284&show_icons=true&theme=dracula&cache_seconds=7200" 
+
+  <img 
+    src="https://github-readme-stats-pi-one.vercel.app/api?username=Bagas284&show_icons=true&theme=dracula&cache_seconds=60&v=1" 
     height="150" 
   />
 </div>
